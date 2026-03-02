@@ -23,9 +23,9 @@ MIN_WITHDRAW = 50_000
 
 # Rekvizitlar (o'zingiz to'ldirasiz)
 PAYMENT_REKV = {
-    "humo":   "🟦 HUMO rekvizit:\n\nKarta: 8600 **** **** ****\nIsm: XXXXX XXXXX",
-    "uzcard": "🟩 UZCARD rekvizit:\n\nKarta: 8600 **** **** ****\nIsm: XXXXX XXXXX",
-    "visa":   "💳 VISA rekvizit:\n\nCard: 4000 **** **** ****\nName: XXXXX XXXXX",
+    "humo":   "🟦 HUMO rekvizit:\n\nKarta: 9860 6067 5024 7151\nIsm: ?",
+    "uzcard": "🟩 UZCARD rekvizit:\n\nKarta: 9860 6067 5024 7151\nIsm: ?",
+    "visa":   "💳 VISA rekvizit:\n\nCard: 4231 2000 7739 0432 \nName: ?",
 }
 
 # ======================
